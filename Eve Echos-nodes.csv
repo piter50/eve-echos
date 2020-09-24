@@ -1,8 +1,76 @@
 Type,Name,Description,Image,Reference,Sec-Level,Faction,Pirate,Region
+Null-Sec Node,KLY-C0,,,,-0.1,Caldari,Guristas,Pure Blind
+Null-Sec Node,7RM-N0,,,,-0.1,Caldari,Guristas,Pure Blind
+Null-Sec Node,S-MDYI,,,,-0.1,Caldari,Guristas,Pure Blind
+Null-Sec Node,ZKYV-W,,,,-0.1,Caldari,Guristas,Pure Blind
+Null-Sec Node,FWA-4V,,,,-0.0,Caldari,Guristas,Pure Blind
+Null-Sec Node,RZC-16,,,,-0.0,Caldari,Guristas,Pure Blind
+Null-Sec Node,MQ-NPY,,,,-0.0,Caldari,Guristas,Pure Blind
+Null-Sec Node,RHQ-MY,,,,-0.0,Caldari,Guristas,Pure Blind
+Lo-Sec Node,Mantenault,,,,0.1,Gallente,Serpentis,Placid
+Lo-Sec Node,Alamel,,,,0.2,Gallente,Serpentis,Placid
+Lo-Sec Node,Arderonne,,,,0.2,Gallente,Serpentis,Placid
+Lo-Sec Node,Reschard,,,,0.1,Gallente,Serpentis,Placid
+Lo-Sec Node,Alparena,,,,0.1,Gallente,Serpentis,Placid
+Lo-Sec Node,Maut,,,,0.2,Gallente,Serpentis,Placid
+Hi-Sec Node,Osmeden,,,,0.7,Gallente,Serpentis,Placid
+Null-Sec Node,7-692B,,,,-0.0,Gallente,Serpentis,Outer Ring
+Null-Sec Node,DB-6W4,,,,-0.0,Gallente,Serpentis,Outer Ring
+Null-Sec Node,R-OCBA,,,,-0.0,Gallente,Serpentis,Outer Ring
+Null-Sec Node,3HQC-6,,,,-0.0,Gallente,Serpentis,Outer Ring
+Null-Sec Node,JKJ-VJ,,,,-0.2,Gallente,Serpentis,Outer Ring
+Null-Sec Node,J9SH-A,,,,-0.0,Gallente,Serpentis,Outer Ring
+Null-Sec Node,LGUZ-1,,,,-0.0,Gallente,Serpentis,Outer Ring
+Null-Sec Node,9-VO0Q,,,,-0.1,Gallente,Serpentis,Fountain
+Null-Sec Node,PNQY-Y,,,,-0.1,Gallente,Serpentis,Fountain
+Null-Sec Node,RP2-OQ,,,,-0.2,Gallente,Serpentis,Fountain
+Null-Sec Node,YVBE-E,,,,-0.3,Gallente,Serpentis,Fountain
+Null-Sec Node,BYXF-Q,,,,-0.2,Gallente,Serpentis,Fountain
+Null-Sec Node,P5-EFH,,,,-0.3,Gallente,Serpentis,Fountain
+Null-Sec Node,L-A5XP,,,,-0.4,Gallente,Serpentis,Fountain
+Null-Sec Node,D4KU-5,,,,-0.1,Gallente,Serpentis,Fountain
+Lo-Sec Node,Hophib,,,,0.0,Amarr,Blood,Aridia
+Lo-Sec Node,Karan,,,,0.0,Amarr,Blood,Aridia
+Hi-Sec Node,Zaveral,,,,0.6,Amarr,Blood,Aridia
+Med-Sec Node,Sazilid,,,,0.5,Amarr,Blood,Aridia
+Med-Sec Node,Shenda,,,,0.5,Amarr,Blood,Aridia
+Med-Sec Node,Keba,,,,0.5,Amarr,Blood,Aridia
+Lo-Sec Node,Esubara,,,,0.2,Amarr,Blood,Aridia
+Lo-Sec Node,Yahyerer,,,,0.2,Amarr,Blood,Aridia
+Lo-Sec Node,Zazamye,,,,0.2,Amarr,Blood,Aridia
+Lo-Sec Node,Shafrak,,,,0.2,Amarr,Blood,Aridia
+Lo-Sec Node,Nalnifan,,,,0.3,Amarr,Blood,Aridia
+Lo-Sec Node,Nema,,,,0.3,Amarr,Blood,Aridia
+Null-Sec Node,P-FSQE,,,,-0.1,Caldari,Guristas,Venal
+Null-Sec Node,N-Q5PW,,,,-0.2,Caldari,Guristas,Venal
+Null-Sec Node,KK-L97,,,,-0.1,Caldari,Guristas,Venal
+Null-Sec Node,Y6-HPG,,,,-0.1,Caldari,Guristas,Venal
+Null-Sec Node,Y-W1Q3,,,,-0.2,Caldari,Guristas,Venal
+Null-Sec Node,UMI-KK,,,,-0.2,Caldari,Guristas,Tribute
+Null-Sec Node,0-YMBJ,,,,-0.2,Caldari,Guristas,Tribute
+Null-Sec Node,KQK1-2,,,,-0.2,Caldari,Guristas,Pure Blind
+Null-Sec Node,X47L-Q,,,,-0.3,Caldari,Guristas,Pure Blind
+Null-Sec Node,J-CIJV,,,,-0.2,Caldari,Guristas,Pure Blind
+Null-Sec Node,X-7OMU,,,,-0.1,Caldari,Guristas,Pure Blind
+Null-Sec Node,L-TS8S,,,,-0.2,Caldari,Guristas,Pure Blind
+Null-Sec Node,0-N8XZ,,,,-0.2,Caldari,Guristas,Pure Blind
+Null-Sec Node,EWOK-K,,,,-0.3,Caldari,Guristas,Pure Blind
+Null-Sec Node,EC-P8R,,,,-0.4,Caldari,Guristas,Pure Blind
+Med-Sec Node,Torrinos,,,,0.5,Caldari,Guristas,Lonetrek
+Hi-Sec Node,Ibura,,,,0.6,Caldari,Guristas,Lonetrek
+Hi-Sec Node,Yoma,,,,0.6,Caldari,Guristas,Lonetrek
+Hi-Sec Node,Isinokka,,,,0.7,Caldari,Guristas,Lonetrek
+Hi-Sec Node,Oipo,,,,0.8,Caldari,Guristas,Lonetrek
+Hi-Sec Node,Haajinen,,,,0.8,Caldari,Guristas,Lonetrek
+Lo-Sec Node,Reitsato,,,,0.2,Caldari,Guristas,Black Rise
+Lo-Sec Node,Okkamon,,,,0.3,Caldari,Guristas,Black Rise
+Lo-Sec Node,Asakai,,,,0.3,Caldari,Guristas,Black Rise
+Lo-Sec Node,Ikoskio,,,,0.3,Caldari,Guristas,Black Rise
+Hi-Sec Node,Samanuni,,,,0.7,Caldari,Guristas,Black Rise
 Hi-Sec Node,Hilaban,,,,0.9,Amarr,Sansha,Tash-Murkon
 Hi-Sec Node,Afnakat,,,,0.6,Amarr,Blood,Khanid
 Med-Sec Node,Col,,,,0.5,Amarr,Blood,Khanid
-Lo-Sec Node,Tegheon,0.4,,,0.4,Amarr,Blood,Khanid
+Lo-Sec Node,Tegheon,,,,0.4,Amarr,Blood,Khanid
 Lo-Sec Node,Rilera,,,,0.4,Amarr,Blood,Khanid
 Hi-Sec Node,Edani,,,,0.6,Amarr,Blood,Khanid
 Null-Sec Node,75FA-Z,,,,-0.1,Gallente,Serpentis,Fountain
@@ -433,7 +501,7 @@ Hi-Sec Node,Leva,,,,0.6,Amarr,Blood,Kor-Azor
 Lo-Sec Node,Vlillirier,,,,0.3,Gallente,Serpentis,Placid
 Lo-Sec Node,Renarelle,,,,0.3,Gallente,Serpentis,Placid
 Null-Sec Node,YZ-LQL,,,,-0.1,Gallente,Serpentis,Fountain
-Null-Sec Node,ZQOS-A,,,,-0.1,Gallente,Serpentis,Fountain
+Null-Sec Node,Z3OS-A,,,,-0.1,Gallente,Serpentis,Fountain
 Null-Sec Node,671-ST,,,,-0.0,Gallente,Serpentis,Fountain
 Null-Sec Node,ESC-RI,,,,-0.0,Gallente,Serpentis,Fountain
 Null-Sec Node,UAYL-F,,,,-0.0,Gallente,Serpentis,Fountain
