@@ -1,0 +1,765 @@
+Type,Name,Description,Image,Reference,Sec-Level,Faction,Pirate,Region
+Hi-Sec Node,Hilaban,,,,0.9,Amarr,Sansha,Tash-Murkon
+Hi-Sec Node,Afnakat,,,,0.6,Amarr,Blood,Khanid
+Med-Sec Node,Col,,,,0.5,Amarr,Blood,Khanid
+Lo-Sec Node,Tegheon,0.4,,,0.4,Amarr,Blood,Khanid
+Lo-Sec Node,Rilera,,,,0.4,Amarr,Blood,Khanid
+Hi-Sec Node,Edani,,,,0.6,Amarr,Blood,Khanid
+Null-Sec Node,75FA-Z,,,,-0.1,Gallente,Serpentis,Fountain
+Null-Sec Node,I-CUVX,,,,-0.1,Gallente,Serpentis,Fountain
+Null-Sec Node,J-RQMF,,,,-0.2,Gallente,Serpentis,Fountain
+Null-Sec Node,KVN-36,,,,-0.4,Gallente,Serpentis,Fountain
+Null-Sec Node,4HS-CR,,,,-0.5,Gallente,Serpentis,Fountain
+Null-Sec Node,WMH-SO,,,,-0.7,Gallente,Serpentis,Fountain
+Null-Sec Node,LBGI-2,,,,-0.9,Gallente,Serpentis,Fountain
+Null-Sec Node,Y-2ANO,,,,-1.0,Gallente,Serpentis,Fountain
+Null-Sec Node,ZXB-VC,,,,-0.9,Amarr,Blood,Delve
+Null-Sec Node,5-CQDA,,,,-0.5,Amarr,Blood,Delve
+Null-Sec Node,KEE-N6,,,,-0.2,Amarr,Blood,Delve
+Null-Sec Node,4X0-8B,,,,-0.2,Amarr,Blood,Delve
+Null-Sec Node,JP4-AA,,,,-0.1,Amarr,Blood,Delve
+Null-Sec Node,D-W7F0,,,,-0.1,Amarr,Blood,Delve
+Null-Sec Node,4K-TRB,,,,-0.0,Amarr,Blood,Delve
+Null-Sec Node,QX-LIJ,,,,-0.0,Amarr,Blood,Delve
+Null-Sec Node,0-IOAI,,,,-0.0,Amarr,Blood,Delve
+Null-Sec Node,NOL-M9,,,,-0.0,Amarr,Blood,Delve
+Null-Sec Node,HM-XR2,,,,-0.0,Amarr,Blood,Delve
+Null-Sec Node,AJI-MA,,,,-0.0,Amarr,Blood,Delve
+Null-Sec Node,Q-HESZ,,,,-0.0,Amarr,Blood,Delve
+Null-Sec Node,F-XWIN,,,,-0.0,Gallente,Serpentis,Outer Ring
+Null-Sec Node,D5IW-F,,,,-0.0,Gallente,Serpentis,Outer Ring
+Null-Sec Node,1L-BHT,,,,-0.0,Gallente,Serpentis,Outer Ring
+Lo-Sec Node,Azedi,,,,0.3,Amarr,Blood,Genesis
+Null-Sec Node,HY-RWO,,,,-0.1,Minmatar,Sansha,Catch
+Null-Sec Node,6X7-JO,,,,-0.1,Minmatar,Sansha,Catch
+Null-Sec Node,A-803L,,,,-0.0,Minmatar,Sansha,Catch
+Null-Sec Node,I-8D0G,,,,-0.1,Minmatar,Sansha,Catch
+Null-Sec Node,WQH-4K,,,,-0.1,Minmatar,Sansha,Catch
+Null-Sec Node,ZXIC-7,,,,-0.1,Minmatar,Sansha,Catch
+Null-Sec Node,F4R2-Q,,,,-0.2,Minmatar,Sansha,Catch
+Null-Sec Node,1P-WGB,,,,-0.1,Minmatar,Sansha,Catch
+Null-Sec Node,Jamunda,,,,-0.0,Minmatar,Angel,Curse
+Null-Sec Node,Litom,,,,-0.0,Minmatar,Angel,Curse
+Hi-Sec Node,Dodixie,,,,0.9,Gallente,Serpentis,Sinq Laison
+Med-Sec Node,Arnola,,,,0.5,Minmatar,Sansha,Derelik
+Hi-Sec Node,Kasrasi,,,,0.6,Minmatar,Sansha,Derelik
+Hi-Sec Node,Fovihi,,,,0.9,Minmatar,Sansha,Derelik
+Hi-Sec Node,Zaid,,,,0.9,Minmatar,Sansha,Derelik
+Hi-Sec Node,Nirbhi,,,,0.9,Minmatar,Sansha,Derelik
+Hi-Sec Node,Yuzier,,,,0.9,Minmatar,Sansha,Derelik
+Lo-Sec Node,Sifilar,,,,0.3,Amarr,Sansha,Devoid
+Lo-Sec Node,Lamaa,,,,0.4,Amarr,Blood,The Bleak Lands
+Lo-Sec Node,Tzvi,,,,0.3,Amarr,Sansha,Devoid
+Lo-Sec Node,Raa,,,,0.3,Amarr,Sansha,Devoid
+Lo-Sec Node,Bimener,,,,0.3,Minmatar,Sansha,Derelik
+Lo-Sec Node,Floseswin,,,,0.4,Minmatar,Angel,Metropolis
+Lo-Sec Node,Aset,,,,0.4,Minmatar,Angel,Metropolis
+Lo-Sec Node,Passari,,,,0.4,Caldari,Guristas,Lonetrek
+Lo-Sec Node,Mara,,,,0.4,Caldari,Guristas,Lonetrek
+Med-Sec Node,Akonoinen,,,,0.5,Caldari,Guristas,Lonetrek
+Lo-Sec Node,Nisuwa,,,,0.3,Caldari,Guristas,Black Rise
+Hi-Sec Node,Niyabainen,,,,1.0,Caldari,Guristas,The Forge
+Null-Sec Node,JH-M2W,,,,-0.1,Gallente,Serpentis,Syndicate
+Null-Sec Node,EZA-FM,,,,-0.2,Gallente,Serpentis,Syndicate
+Null-Sec Node,6-CZ49,,,,-0.2,Gallente,Serpentis,Syndicate
+Lo-Sec Node,Reblier,,,,0.4,Gallente,Serpentis,Verge Vendor
+Hi-Sec Node,Chesiette,,,,0.6,Gallente,Serpentis,Verge Vendor
+Hi-Sec Node,Annelle,,,,0.8,Gallente,Serpentis,Verge Vendor
+Hi-Sec Node,Masalle,,,,0.8,Gallente,Serpentis,Verge Vendor
+Hi-Sec Node,Claulenne,,,,0.7,Gallente,Serpentis,Verge Vendor
+Hi-Sec Node,Sortet,,,,0.8,Gallente,Serpentis,Verge Vendor
+Lo-Sec Node,Hirri,,,,0.3,Caldari,Guristas,Black Rise
+Lo-Sec Node,Kedama,,,,0.3,Caldari,Guristas,Black Rise
+Lo-Sec Node,Filet,,,,0.3,Gallente,Serpentis,Essence
+Lo-Sec Node,Deven,,,,0.3,Gallente,Serpentis,Essence
+Lo-Sec Node,Nagamanen,,,,0.3,Caldari,Guristas,The Citadel
+Hi-Sec Node,Alf,,,,1.0,Minmatar,Angel,Metropolis
+Hi-Sec Node,Auberulle,,,,0.8,Gallente,Serpentis,Sinq Laison
+Hi-Sec Node,Unel,,,,0.9,Gallente,Serpentis,Sinq Laison
+Hi-Sec Node,Chainelant,,,,0.9,Gallente,Serpentis,Sinq Laison
+Hi-Sec Node,Dodenvale,,,,0.7,Gallente,Serpentis,Sinq Laison
+Lo-Sec Node,Olettiers,,,,0.4,Gallente,Serpentis,Sinq Laison
+Hi-Sec Node,Korama,,,,0.8,Caldari,Guristas,Lonetrek
+Hi-Sec Node,Malkalen,,,,0.9,Caldari,Guristas,Lonetrek
+Hi-Sec Node,New Caldari,,,,1.0,Caldari,Guristas,The Forge
+Lo-Sec Node,Yehaba,,,,0.2,Amarr,Blood,Aridia
+Lo-Sec Node,Gens,,,,0.2,Amarr,Blood,Aridia
+Lo-Sec Node,Onsooh,,,,0.4,Amarr,Sansha,Derelik
+Lo-Sec Node,Asabona,,,,0.3,Amarr,Sansha,Derelik
+Lo-Sec Node,Irshah,,,,0.4,Amarr,Sansha,Derelik
+Lo-Sec Node,Gomati,,,,0.4,Amarr,Sansha,Derelik
+Lo-Sec Node,Assah,,,,0.3,Amarr,Sansha,Derelik
+Null-Sec Node,G-5EN2,,,,-0.2,Minmatar,Sansha,Providence
+Null-Sec Node,9-F0B2,,,,-0.2,Minmatar,Sansha,Providence
+Med-Sec Node,Sasiekko,,,,0.5,Amarr,Blood,The Bleak Lands
+Hi-Sec Node,Penirgman,,,,0.9,Amarr,Sansha,Domain
+Hi-Sec Node,Orkashu,,,,0.8,Amarr,Sansha,Domain
+Hi-Sec Node,Youl,,,,0.8,Amarr,Sansha,Domain
+Hi-Sec Node,Sharhelund,,,,0.6,Amarr,Sansha,Domain
+Lo-Sec Node,Raravoss,,,,0.4,Amarr,Sansha,Domain
+Lo-Sec Node,Sosala,,,,0.4,Amarr,Blood,The Bleak Lands
+Lo-Sec Node,Arayar,,,,0.4,Amarr,Sansha,Devoid
+Lo-Sec Node,Imih,,,,0.4,Amarr,Blood,Kor-Azor
+Lo-Sec Node,Liparer,,,,0.4,Amarr,Blood,Kor-Azor
+Lo-Sec Node,Miroona,,,,0.4,Amarr,Blood,Kor-Azor
+Lo-Sec Node,Jedandan,,,,0.4,Amarr,Blood,Kor-Azor
+Lo-Sec Node,Enal,,,,0.4,Amarr,Blood,Kor-Azor
+Med-Sec Node,Piri,,,,0.5,Amarr,Blood,Kor-Azor
+Lo-Sec Node,Menai,,,,0.3,Amarr,Blood,Genesis
+Lo-Sec Node,Atarli,,,,0.4,Amarr,Blood,Kor-Azor
+Med-Sec Node,Shokal,,,,0.5,Amarr,Blood,Kor-Azor
+Null-Sec Node,7GCD-P,,,,-0.1,Amarr,Blood,Querious
+Null-Sec Node,0-WT2D,,,,-0.1,Amarr,Blood,Querious
+Null-Sec Node,7V-KHW,,,,-0.2,Amarr,Blood,Querious
+Null-Sec Node,T8H-66,,,,-0.3,Amarr,Blood,Querious
+Null-Sec Node,A2-V27,,,,-0.4,Amarr,Blood,Querious
+Lo-Sec Node,Kaira,,,,0.3,Amarr,Blood,Khanid
+Lo-Sec Node,Ashmarir,,,,0.4,Amarr,Blood,Khanid
+Hi-Sec Node,Arzanni,,,,0.6,Amarr,Blood,Khanid
+Lo-Sec Node,Otou,,,,0.3,Gallente,Serpentis,Sinq Laison
+Lo-Sec Node,Miroitem,,,,0.3,Gallente,Serpentis,Sinq Laison
+Lo-Sec Node,Rancer,,,,0.4,Gallente,Serpentis,Sinq Laison
+Lo-Sec Node,Crielere,,,,0.4,Gallente,Serpentis,Sinq Laison
+Med-Sec Node,Ambeke,,,,0.5,Gallente,Serpentis,Sinq Laison
+Med-Sec Node,Faurent,,,,0.5,Gallente,Serpentis,Sinq Laison
+Hi-Sec Node,Iyen-Oursta,,,,0.8,Gallente,Serpentis,Sinq Laison
+Hi-Sec Node,Zorozih,,,,0.7,Amarr,Sansha,Domain
+Hi-Sec Node,Akhragan,,,,0.8,Amarr,Sansha,Domain
+Lo-Sec Node,Innia,,,,0.3,Caldari,Guristas,Black Rise
+Hi-Sec Node,Odin,,,,0.6,Amarr,Sansha,Domain
+Hi-Sec Node,Esescama,,,,0.6,Amarr,Sansha,Domain
+Hi-Sec Node,Uadelah,,,,0.8,Amarr,Sansha,Domain
+Hi-Sec Node,Hati,,,,0.8,Amarr,Sansha,Devoid
+Hi-Sec Node,Yuhelia,,,,0.8,Amarr,Sansha,Domain
+Hi-Sec Node,Barira,,,,0.8,Amarr,Sansha,Domain
+Hi-Sec Node,Bagodan,,,,0.7,Amarr,Sansha,Domain
+Hi-Sec Node,Hama,,,,0.8,Amarr,Sansha,Domain
+Med-Sec Node,Hror,,,,0.5,Minmatar,Angel,Metropolis
+Lo-Sec Node,Resbroko,,,,0.4,Minmatar,Angel,Metropolis
+Lo-Sec Node,Hadozeko,,,,0.4,Minmatar,Angel,Metropolis
+Lo-Sec Node,Ardar,,,,0.4,Minmatar,Angel,Metropolis
+Lo-Sec Node,Frerstorn,,,,0.3,Minmatar,Angel,Metropolis
+Lo-Sec Node,Eszur,,,,0.2,Minmatar,Angel,Metropolis
+Hi-Sec Node,Agrallarier,,,,0.9,Gallente,Serpentis,Sinq Liason
+Hi-Sec Node,Ipref,,,,0.9,Amarr,Blood,Khanid
+Hi-Sec Node,Soumi,,,,0.6,Amarr,Blood,Kor-Azor
+Hi-Sec Node,Kulu,,,,0.6,Amarr,Blood,Kor-Azor
+Hi-Sec Node,Moniyyuku,,,,0.6,Amarr,Blood,Khanid
+Med-Sec Node,Reteka,,,,0.5,Amarr,Blood,Khanid
+Med-Sec Node,Palas,,,,0.5,Amarr,Blood,Khanid
+Hi-Sec Node,Gidali,,,,0.7,Amarr,Blood,Khanid
+Hi-Sec Node,Molea,,,,0.7,Amarr,Blood,Khanid
+Hi-Sec Node,Nakregde,,,,0.8,Amarr,Blood,Kor-Azor
+Null-Sec Node,Sakht,,,,-0.0,Amarr,Blood,Aridia
+Null-Sec Node,Naga,,,,-0.0,Amarr,Blood,Aridia
+Lo-Sec Node,Efa,,,,0.4,Amarr,Blood,Khanid
+Med-Sec Node,Tzashrah,,,,0.5,Amarr,Blood,Khanid
+Hi-Sec Node,Badivefi,,,,0.7,Amarr,Blood,Khanid
+Hi-Sec Node,Sazre,,,,0.8,Amarr,Blood,Khanid
+Hi-Sec Node,Jachanu,,,,0.9,Amarr,Blood,Khanid
+Hi-Sec Node,Kihtaled,,,,0.9,Amarr,Blood,Khanid
+Hi-Sec Node,Gousoviba,,,,0.9,Amarr,Blood,Khanid
+Hi-Sec Node,Mimime,,,,0.8,Amarr,Sansha,Tash-Murkon
+Hi-Sec Node,Hostni,,,,0.8,Amarr,Sansha,Tash-Murkon
+Hi-Sec Node,Asesamy,,,,0.6,Amarr,Sansha,Tash-Murkon
+Hi-Sec Node,Onazel,,,,0.7,Amarr,Sansha,Tash-Murkon
+Hi-Sec Node,Lossa,,,,0.8,Amarr,Sansha,Tash-Murkon
+Null-Sec Node,3-FKCZ,,,,-0.3,Amarr,Blood,Querious
+Null-Sec Node,0TKF-6,,,,-0.4,Amarr,Blood,Querious
+Null-Sec Node,YOP-0T,,,,-0.6,Amarr,Blood,Querious
+Null-Sec Node,9ES-SI,,,,-0.1,Amarr,Blood,Querious
+Null-Sec Node,V-LEKM,,,,-0.1,Amarr,Blood,Querious
+Null-Sec Node,K7D-II,,,,-0.1,Amarr,Blood,Querious
+Null-Sec Node,G-3BOG,,,,-0.1,Amarr,Blood,Querious
+Null-Sec Node,L-6BE1,,,,-0.0,Amarr,Blood,Querious
+Null-Sec Node,MKD-O8,,,,-0.0,Amarr,Blood,Querious
+Null-Sec Node,GOP-GE,,,,-0.0,Amarr,Blood,Querious
+Null-Sec Node,SKR-SP,,,,-0.0,Amarr,Blood,Querious
+Null-Sec Node,V-3UT8,,,,-0.0,Amarr,Blood,Querious
+Null-Sec Node,T8T-RA,,,,-0.0,Amarr,Blood,Querious
+Null-Sec Node,A-B04V,,,,-0.0,Amarr,Blood,Querious
+Hi-Sec Node,Ivar,,,,1.0,Minmatar,Angel,Heimatar
+Hi-Sec Node,Ameinaka,,,,1.0,Minmatar,Angel,Heimatar
+Hi-Sec Node,Arlulf,,,,1.0,Minmatar,Angel,Metropolis
+Hi-Sec Node,Stirht,,,,0.9,Minmatar,Angel,Metropolis
+Med-Sec Node,Anher,,,,0.5,Minmatar,Angel,Metropolis
+Lo-Sec Node,Hagilur,,,,0.4,Caldari,Guristas,Metropolis
+Lo-Sec Node,Otosela,,,,0.2,Caldari,Guristas,The Forge
+Lo-Sec Node,Tasti,,,,0.3,Caldari,Guristas,The Forge
+Lo-Sec Node,Modun,,,,0.3,Amarr,Sansha,Tash-Murkon
+Lo-Sec Node,Sagain,,,,0.4,Amarr,Sansha,Tash-Murkon
+Hi-Sec Node,Paye,,,,0.6,Amarr,Sansha,Tash-Murkon
+Hi-Sec Node,Goni,,,,0.8,Amarr,Sansha,Tash-Murkon
+Hi-Sec Node,Shesha,,,,0.9,Amarr,Sansha,Tash-Murkon
+Hi-Sec Node,Emrayur,,,,1.0,Amarr,Sansha,Tash-Murkon
+Hi-Sec Node,Eram,,,,0.8,Minmatar,Angel,Metropolis
+Hi-Sec Node,Elgoi,,,,0.9,Minmatar,Angel,Metropolis
+Hi-Sec Node,Arlek,,,,1.0,Minmatar,Angel,Metropolis
+Lo-Sec Node,Naka,,,,0.3,Amarr,Blood,Genesis
+Lo-Sec Node,Gayar,,,,0.3,Amarr,Blood,Genesis
+Lo-Sec Node,Chej,,,,0.3,Amarr,Blood,Genesis
+Lo-Sec Node,Noranim,,,,0.3,Amarr,Blood,Genesis
+Lo-Sec Node,Nebian,,,,0.4,Amarr,Blood,Kor-Azor
+Lo-Sec Node,Fensi,,,,0.4,Amarr,Blood,Kor-Azor
+Lo-Sec Node,Ami,,,,0.4,Amarr,Blood,Kor-Azor
+Hi-Sec Node,Amdonen,,,,0.6,Amarr,Blood,Kor-Azor
+Hi-Sec Node,Inaro,,,,0.8,Caldari,Guristas,The Citadel
+Hi-Sec Node,Kuomi,,,,0.6,Amarr,Blood,The Bleak Lands
+Null-Sec Node,W6VP-Y,,,,-0.8,Caldari,Guristas,Tribute
+Null-Sec Node,IMK-K1,,,,-0.8,Caldari,Guristas,Tribute
+Null-Sec Node,NJ4X-S,,,,-0.7,Caldari,Guristas,Tribute
+Null-Sec Node,F-G7BO,,,,-0.6,Caldari,Guristas,Tribute
+Null-Sec Node,2CG-5V,,,,-0.6,Caldari,Guristas,Tribute
+Null-Sec Node,Y5J-EU,,,,-0.2,Caldari,Guristas,Vale of the Silent
+Null-Sec Node,G5ED-Y,,,,-0.3,Caldari,Guristas,Vale of the Silent
+Null-Sec Node,UL-4ZW,,,,-0.4,Caldari,Guristas,Vale of the Silent
+Null-Sec Node,R-RSZZ,,,,-0.4,Caldari,Guristas,Vale of the Silent
+Null-Sec Node,7G-H7D,,,,-0.4,Caldari,Guristas,Vale of the Silent
+Null-Sec Node,1VK-6B,,,,-0.2,Caldari,Guristas,Vale of the Silent
+Null-Sec Node,S6QX-N,,,,-0.2,Caldari,Guristas,Vale of the Silent
+Null-Sec Node,IT-YAU,,,,-0.2,Caldari,Guristas,Vale of the Silent
+Null-Sec Node,1W-0KS,,,,-0.1,Caldari,Guristas,Vale of the Silent
+Null-Sec Node,QP0K-B,,,,-0.0,Caldari,Guristas,Germinate
+Null-Sec Node,TJM-JJ,,,,-0.0,Caldari,Guristas,Germinate
+Null-Sec Node,EOA-ZC,,,,-0.1,Caldari,Guristas,Germinate
+Lo-Sec Node,Akkio,,,,0.2,Caldari,Guristas,The Forge
+Null-Sec Node,0SHT-A,,,,-0.2,Minmatar,Angel,Curse
+Null-Sec Node,D87E-A,,,,-0.1,Minmatar,Angel,Curse
+Null-Sec Node,K-B2D3,,,,-0.1,Minmatar,Angel,Curse
+Lo-Sec Node,Aldranette,,,,0.4,Gallente,Serpentis,Placid
+Hi-Sec Node,Unpas,,,,0.9,Caldari,Guristas,The Forge
+Hi-Sec Node,Hjortur,,,,0.9,Minmatar,Angel,Metropolis
+Hi-Sec Node,Illuin,,,,0.9,Minmatar,Angel,Metropolis
+Hi-Sec Node,Leurtmar,,,,1.0,Minmatar,Angel,Metropolis
+Hi-Sec Node,Ryddinjorn,,,,1.0,Minmatar,Angel,Metropolis
+Hi-Sec Node,Meirakulf,,,,0.9,Minmatar,Angel,Heimatar
+Hi-Sec Node,Ohide,,,,0.6,Amarr,Sansha,Devoid
+Hi-Sec Node,Sasoutikh,,,,0.6,Amarr,Sansha,Devoid
+Hi-Sec Node,Gheth,,,,0.6,Amarr,Sansha,Devoid
+Hi-Sec Node,Mahatoor,,,,0.7,Amarr,Sansha,Devoid
+Hi-Sec Node,Eredan,,,,0.7,Amarr,Sansha,Devoid
+Hi-Sec Node,Lisudeh,,,,0.8,Amarr,Sansha,Devoid
+Hi-Sec Node,Lashesih,,,,0.8,Minmatar,Sansha,Derelik
+Lo-Sec Node,Astabih,,,,0.4,Minmatar,Sansha,Derelik
+Null-Sec Node,MXYS-8,,,,-0.4,Gallente,Serpentis,Syndicate
+Lo-Sec Node,Bapraya,,,,0.3,Amarr,Blood,Aridia
+Lo-Sec Node,Ghekon,,,,0.4,Amarr,Blood,Aridia
+Lo-Sec Node,Ned,,,,0.2,Amarr,Blood,Aridia
+Lo-Sec Node,Nouta,,,,0.3,Amarr,Blood,Aridia
+Lo-Sec Node,Fobiner,,,,0.2,Amarr,Blood,Aridia
+Lo-Sec Node,Pserz,,,,0.4,Amarr,Blood,Aridia
+Lo-Sec Node,Sza,,,,0.3,Amarr,Blood,Aridia
+Null-Sec Node,6-U2M8,,,,-0.4,Gallente,Serpentis,Syndicate
+Null-Sec Node,XS-XAY,,,,-0.3,Gallente,Serpentis,Syndicate
+Null-Sec Node,35-RK9,,,,-0.2,Gallente,Serpentis,Syndicate
+Null-Sec Node,IIRH-G,,,,-0.3,Gallente,Serpentis,Syndicate
+Null-Sec Node,VV-VCR,,,,-0.2,Gallente,Serpentis,Syndicate
+Null-Sec Node,1DH-SX,,,,-0.0,Amarr,Blood,Delve
+Null-Sec Node,K4-RFZ,,,,-0.2,Amarr,Blood,Querious
+Null-Sec Node,F2OY-X,,,,-0.0,Amarr,Blood,Querious
+Null-Sec Node,DG-L7Z,,,,-0.2,Amarr,Blood,Querious
+Null-Sec Node,RKM-GE,,,,-0.0,Amarr,Blood,Querious
+Null-Sec Node,4-2UXV,,,,-0.0,Amarr,Blood,Querious
+Hi-Sec Node,Aeddin,,,,0.6,Minmatar,Angel,Molden Heath
+Hi-Sec Node,Austraka,,,,0.8,Minmatar,Angel,Heimatar
+Hi-Sec Node,Gerek,,,,0.7,Minmatar,Angel,Heimatar
+Hi-Sec Node,Rokofur,,,,0.6,Minmatar,Angel,Heimatar
+Lo-Sec Node,Gultratren,,,,0.3,Minmatar,Angel,Heimatar
+Lo-Sec Node,Arnstur,,,,0.1,Minmatar,Angel,Metropolis
+Lo-Sec Node,Todifrauan,,,,0.1,Minmatar,Angel,Metropolis
+Lo-Sec Node,Evati,,,,0.1,Minmatar,Angel,Metropolis
+Lo-Sec Node,Labapi,,,,0.4,Amarr,Sansha,Devoid
+Lo-Sec Node,Roushzar,,,,0.4,Amarr,Sansha,Devoid
+Lo-Sec Node,Huola,,,,0.4,Amarr,Blood,The Bleak Lands
+Hi-Sec Node,Amane,,,,0.6,Gallente,Serpentis,Essence
+Med-Sec Node,Actee,,,,0.5,Gallente,Serpentis,Essence
+Lo-Sec Node,Gulmorogod,,,,0.4,Minmatar,Angel,Heimatar
+Lo-Sec Node,Egmar,,,,0.3,Minmatar,Angel,Metropolis
+Lo-Sec Node,Arnher,,,,0.2,Minmatar,Angel,Metropolis
+Lo-Sec Node,Indregulle,,,,0.2,Gallente,Serpentis,Essence
+Lo-Sec Node,Murethand,,,,0.3,Gallente,Serpentis,Verge Vendor
+Lo-Sec Node,Melmaniel,,,,0.3,Gallente,Serpentis,Verge Vendor
+Lo-Sec Node,Ouelletta,,,,0.4,Gallente,Serpentis,Verge Vendor
+Lo-Sec Node,Loes,,,,0.3,Gallente,Serpentis,Verge Vendor
+Lo-Sec Node,Kinakka,,,,0.4,Caldari,Guristas,Black Rise
+Lo-Sec Node,Martoh,,,,0.4,Caldari,Guristas,Black Rise
+Lo-Sec Node,Eha,,,,0.4,Caldari,Guristas,Black Rise
+Lo-Sec Node,Oicx,,,,0.3,Gallente,Serpentis,Placid
+Hi-Sec Node,Zatsyaki,,,,0.9,Amarr,Sansha,Domain
+Hi-Sec Node,Safizon,,,,0.8,Amarr,Sansha,Domain
+Hi-Sec Node,Jennim,,,,0.8,Amarr,Blood,Kador
+Hi-Sec Node,Elmed,,,,0.8,Amarr,Blood,Kador
+Hi-Sec Node,Arant,,,,0.6,Gallente,Serpentis,Essence
+Hi-Sec Node,Kemerk,,,,0.8,Amarr,Blood,Genesis
+Lo-Sec Node,Moclinamaud,,,,0.4,Gallente,Serpentis,Placid
+Lo-Sec Node,Frarie,,,,0.4,Gallente,Serpentis,Placid
+Lo-Sec Node,Vey,,,,0.2,Gallente,Serpentis,Placid
+Lo-Sec Node,Agoze,,,,0.2,Gallente,Serpentis,Placid
+Lo-Sec Node,Olin,,,,0.3,Amarr,Blood,Genesis
+Hi-Sec Node,Alillere,,,,0.8,Gallente,Serpentis,Sinq Laison
+Hi-Sec Node,Eglennaert,,,,0.8,Gallente,Serpentis,Sinq Laison
+Lo-Sec Node,Saphthar,,,,0.3,Amarr,Blood,Genesis
+Lo-Sec Node,Bantish,,,,0.3,Amarr,Blood,Genesis
+Lo-Sec Node,Korridi,,,,0.3,Amarr,Blood,Genesis
+Hi-Sec Node,Cat,,,,0.7,Gallente,Serpentis,Essence
+Hi-Sec Node,Derririntel,,,,0.8,Gallente,Serpentis,Essence
+Null-Sec Node,X-BV98,,,,-0.0,Gallente,Serpentis,Syndicate
+Null-Sec Node,Poitot,,,,-0.0,Gallente,Serpentis,Syndicate
+Null-Sec Node,F67E-Q,,,,-0.0,Gallente,Serpentis,Syndicate
+Med-Sec Node,Vivanier,,,,0.5,Gallente,Serpentis,Placid
+Lo-Sec Node,Dour,,,,0.4,Gallente,Serpentis,Placid
+Lo-Sec Node,Pelille,,,,0.2,Gallente,Serpentis,Placid
+Hi-Sec Node,Osmomonne,,,,0.8,Gallente,Serpentis,Verge Vendor
+Hi-Sec Node,Scolluzer,,,,0.8,Gallente,Serpentis,Verge Vendor
+Hi-Sec Node,Synchelle,,,,0.9,Gallente,Serpentis,Essence
+Hi-Sec Node,Mabnen,,,,0.9,Amarr,Sansha,Domain
+Null-Sec Node,Utopia,,,,-0.0,Minmatar,Angel,Curse
+Lo-Sec Node,Anckee,,,,0.2,Gallente,Serpentis,Soltude
+Lo-Sec Node,Elore,,,,0.2,Gallente,Serpentis,Soltude
+Lo-Sec Node,Yveve,,,,0.4,Gallente,Serpentis,Solitude
+Lo-Sec Node,Conomette,,,,0.3,Gallente,Serpentis,Solitude
+Null-Sec Node,Y9G-KS,,,,-0.4,Gallente,Serpentis,Syndicate
+Null-Sec Node,97X-CH,,,,-0.2,Gallente,Serpentis,Syndicate
+Null-Sec Node,M2-CF1,,,,-0.1,Gallente,Serpentis,Syndicate
+Null-Sec Node,8-JYPM,,,,-0.1,Gallente,Serpentis,Syndicate
+Null-Sec Node,ZVN5-H,,,,-0.1,Gallente,Serpentis,Syndicate
+Null-Sec Node,6E-578,,,,-0.1,Gallente,Serpentis,Syndicate
+Null-Sec Node,MHC-R3,,,,-0.0,Gallente,Serpentis,Syndicate
+Lo-Sec Node,Harroule,,,,0.1,Gallente,Serpentis,Placid
+Hi-Sec Node,Carirgnottin,,,,0.6,Gallente,Serpentis,Everyshore
+Hi-Sec Node,Scuelazyns,,,,0.6,Gallente,Serpentis,Everyshore
+Hi-Sec Node,Enedore,,,,0.6,Gallente,Serpentis,Everyshore
+Hi-Sec Node,Aice,,,,0.7,Gallente,Serpentis,Everyshore
+Lo-Sec Node,Saidusairos,,,,0.1,Amarr,Blood,The Bleak Lands
+Lo-Sec Node,Gratesier,,,,0.4,Gallente,Serpentis,Sinq Laison
+Lo-Sec Node,Schoorasana,,,,0.4,Gallente,Serpentis,Sinq Laison
+Lo-Sec Node,Mormelot,,,,0.2,Gallente,Serpentis,Evereyshore
+Lo-Sec Node,Mannar,,,,0.3,Gallente,Serpentis,Everyshore
+Lo-Sec Node,Heild,,,,0.3,Gallente,Serpentis,Everyshore
+Lo-Sec Node,Elarel,,,,0.4,Gallente,Serpentis,Everyshore
+Med-Sec Node,Bilie,,,,0.5,Gallente,Serpentis,Everyshore
+Hi-Sec Node,Olide,,,,0.7,Gallente,Serpentis,Everyshore
+Hi-Sec Node,Caslemon,,,,0.6,Gallente,Serpentis,Essence
+Hi-Sec Node,Jolevier,,,,0.9,Gallente,Serpentis,Essence
+Hi-Sec Node,Yashunen,,,,1.0,Caldari,Guristas,The Citadel
+Hi-Sec Node,Marosier,,,,0.6,Gallente,Serpentis,Everyshore
+Hi-Sec Node,Vaurent,,,,0.6,Gallente,Serpentis,Everyshore
+Hi-Sec Node,Atlanins,,,,0.6,Gallente,Serpentis,Everyshore
+Hi-Sec Node,Leremblompes,,,,0.6,Gallente,Serpentis,Everyshore
+Hi-Sec Node,Pettinck,,,,0.8,Gallente,Serpentis,Sinq Laison
+Hi-Sec Node,Luminaire,,,,1.0,Gallente,Serpentis,Essence
+Hi-Sec Node,Yezara,,,,0.7,Amarr,Blood,Khanid
+Lo-Sec Node,Kenobanala,,,,0.3,Minmatar,Sansha,Derelik
+Lo-Sec Node,Audesder,,,,0.3,Minmatar,Angel,Molden Heath
+Lo-Sec Node,Aedald,,,,0.3,Minmatar,Angel,Molden Heath
+Lo-Sec Node,Helid,,,,0.3,Minmatar,Angel,Molden Heath
+Lo-Sec Node,Shapisin,,,,0.3,Amarr,Blood,Genesis
+Hi-Sec Node,Rens,,,,0.9,Minmatar,Angel,Heimatar
+Hi-Sec Node,Frarn,,,,0.8,Minmatar,Angel,Heimatar
+Hi-Sec Node,Lustrevik,,,,0.9,Minmatar,Angel,Heimatar
+Lo-Sec Node,Bosena,,,,0.4,Minmatar,Angel,Molden Heath
+Lo-Sec Node,Ziasad,,,,0.4,Amarr,Blood,Genesis
+Lo-Sec Node,Assez,,,,0.4,Amarr,Blood,Genesis
+Med-Sec Node,Sibe,,,,0.5,Amarr,Blood,Genesis
+Med-Sec Node,Serren,,,,0.5,Amarr,Blood,Genesis
+Med-Sec Node,Zoohen,,,,0.5,Amarr,Blood,Genesis
+Hi-Sec Node,Kehour,,,,0.9,Amarr,Sansha,Domain
+Lo-Sec Node,Isbrebata,,,,0.4,Minmatar,Angel,Metropolis
+Lo-Sec Node,Sosan,,,,0.3,Amarr,Sansha,Devoid
+Lo-Sec Node,Oyonata,,,,0.3,Amarr,Blood,The Bleak Lands
+Lo-Sec Node,Kurniainen,,,,0.1,Amarr,Blood,The Bleak Lands
+Lo-Sec Node,Eytjangard,,,,0.4,Minmatar,Angel,Metropolis
+Lo-Sec Node,Avenod,,,,0.4,Minmatar,Angel,Metropolis
+Med-Sec Node,Audaerne,,,,0.5,Gallente,Serpentis,Sinq Laison
+Med-Sec Node,Augnais,,,,0.5,Gallente,Serpentis,Sinq Laison
+Hi-Sec Node,Halenan,,,,0.6,Amarr,Sansha,Devoid
+Hi-Sec Node,Uktiad,,,,0.6,Amarr,Sansha,Devoid
+Med-Sec Node,Arveyil,,,,0.5,Amarr,Sansha,Devoid
+Med-Sec Node,Aurcel,,,,0.5,Gallente,Serpentis,Sinq Laison
+Hi-Sec Node,Pozirblant,,,,0.7,Gallente,Serpentis,Sinq Laison
+Hi-Sec Node,Bourynes,,,,1.0,Gallente,Serpentis,Sinq Laison
+Hi-Sec Node,Ethernity,,,,0.9,Gallente,Serpentis,Everyshore
+Hi-Sec Node,Mattere,,,,1.0,Gallente,Serpentis,Everyshore
+Hi-Sec Node,Adreland,,,,0.9,Gallente,Serpentis,Sinq Laison
+Hi-Sec Node,Kusomonmon,,,,0.8,Caldari,Guristas,The Citadel
+Hi-Sec Node,Suroken,,,,0.7,Caldari,Guristas,The Citadel
+Hi-Sec Node,Haatomo,,,,0.6,Caldari,Guristas,The Citadel
+Hi-Sec Node,Grinacanne,,,,0.8,Gallente,Serpentis,Sinq Laison
+Hi-Sec Node,Merolles,,,,0.9,Gallente,Serpentis,Genesis
+Hi-Sec Node,Pakhshi,,,,0.9,Gallente,Serpentis,Genesis
+Null-Sec Node,F9E-KX,,,,-0.3,Minmatar,Sansha,Catch
+Null-Sec Node,7MD-S1,,,,-0.3,Minmatar,Sansha,Catch
+Null-Sec Node,ERVK-P,,,,-0.3,Minmatar,Sansha,Catch
+Null-Sec Node,UL-7I8,,,,-0.3,Minmatar,Sansha,Catch
+Null-Sec Node,G-AOTH,,,,-0.1,Minmatar,Sansha,Catch
+Null-Sec Node,ZQ-Z3Y,,,,-0.1,Minmatar,Sansha,Catch
+Null-Sec Node,D-GTMI,,,,-0.3,Minmatar,Sansha,Providence
+Null-Sec Node,T-RPFU,,,,-0.2,Minmatar,Sansha,Providence
+Null-Sec Node,9UY4-H,,,,-0.1,Minmatar,Sansha,Providence
+Null-Sec Node,4B-NQN,,,,-0.1,Minmatar,Sansha,Providence
+Null-Sec Node,YWS0-Z,,,,-0.1,Minmatar,Sansha,Providence
+Null-Sec Node,XHQ-7V,,,,-0.2,Minmatar,Sansha,Providence
+Null-Sec Node,KBP7-G,,,,-0.3,Minmatar,Sansha,Providence
+Null-Sec Node,WHG2-7,,,,-0.1,Amarr,Sansha,Stain
+Null-Sec Node,Q-Q2S6,,,,-0.1,Amarr,Sansha,Stain
+Null-Sec Node,X1E-OQ,,,,-0.1,Amarr,Sansha,Stain
+Null-Sec Node,MB4D-4,,,,-0.1,Amarr,Sansha,Stain
+Null-Sec Node,LGK-VP,,,,-0.1,Amarr,Sansha,Stain
+Null-Sec Node,DSS-EZ,,,,-0.3,Amarr,Sansha,Stain
+Null-Sec Node,3GD6-8,,,,-0.2,Minmatar,Sansha,Catch
+Null-Sec Node,GE-8JV,,,,-0.2,Minmatar,Sansha,Catch
+Null-Sec Node,YHN-3K,,,,-0.1,Minmatar,Sansha,Catch
+Null-Sec Node,V-3YG7,,,,-0.1,Minmatar,Sansha,Catch
+Null-Sec Node,36N-HZ,,,,-0.1,Minmatar,Sansha,Catch
+Null-Sec Node,B-3QPD,,,,-0.1,Minmatar,Sansha,Catch
+Null-Sec Node,U-QVWD,,,,-0.1,Minmatar,Sansha,Catch
+Null-Sec Node,9KOE-A,,,,-0.0,Minmatar,Sansha,Catch
+Null-Sec Node,WD-VTV,,,,-0.1,Minmatar,Sansha,Catch
+Null-Sec Node,SV5-8Z,,,,-0.2,Minmatar,Sansha,Catch
+Null-Sec Node,HED-GP,,,,-0.1,Minmatar,Sansha,Catch
+Med-Sec Node,Dital,,,,0.5,Amarr,Sansha,Devoid
+Med-Sec Node,Kerberz,,,,0.5,Amarr,Blood,Khanid
+Hi-Sec Node,Choonka,,,,0.6,Amarr,Sansha,Devoid
+Hi-Sec Node,Lansez,,,,0.7,Amarr,Blood,Khanid
+Hi-Sec Node,Bukah,,,,0.8,Amarr,Blood,Khanid
+Hi-Sec Node,Agil,,,,0.9,Amarr,Blood,Khanid
+Hi-Sec Node,Hishai,,,,0.8,Amarr,Blood,Khanid
+Hi-Sec Node,Geztic,,,,0.8,Amarr,Blood,Khanid
+Hi-Sec Node,Osis,,,,0.7,Amarr,Blood,Khanid
+Hi-Sec Node,Sehsasex,,,,0.7,Amarr,Blood,Khanid
+Hi-Sec Node,Ervekam,,,,0.7,Amarr,Blood,Khanid
+Hi-Sec Node,Masanuh,,,,0.7,Amarr,Blood,Kor-Azor
+Hi-Sec Node,Leva,,,,0.6,Amarr,Blood,Kor-Azor
+Lo-Sec Node,Vlillirier,,,,0.3,Gallente,Serpentis,Placid
+Lo-Sec Node,Renarelle,,,,0.3,Gallente,Serpentis,Placid
+Null-Sec Node,YZ-LQL,,,,-0.1,Gallente,Serpentis,Fountain
+Null-Sec Node,ZQOS-A,,,,-0.1,Gallente,Serpentis,Fountain
+Null-Sec Node,671-ST,,,,-0.0,Gallente,Serpentis,Fountain
+Null-Sec Node,ESC-RI,,,,-0.0,Gallente,Serpentis,Fountain
+Null-Sec Node,UAYL-F,,,,-0.0,Gallente,Serpentis,Fountain
+Null-Sec Node,K8L-XY,,,,-0.1,Gallente,Serpentis,Fountain
+Null-Sec Node,Y-1W01,,,,-0.1,Gallente,Serpentis,Fountain
+Null-Sec Node,E-BWUU,,,,-0.1,Gallente,Serpentis,Fountain
+Null-Sec Node,3WE-KY,,,,-0.1,Gallente,Serpentis,Fountain
+Null-Sec Node,IR-WT1,,,,-0.1,Gallente,Serpentis,Fountain
+Null-Sec Node,4-EP12,,,,-0.0,Gallente,Serpentis,Fountain
+Null-Sec Node,XF-TQL,,,,-0.0,Gallente,Serpentis,Fountain
+Null-Sec Node,EI-O0O,,,,-0.0,Gallente,Serpentis,Fountain
+Null-Sec Node,Z9PP-H,,,,-0.0,Gallente,Serpentis,Fountain
+Null-Sec Node,J5A-IX,,,,-0.0,Gallente,Serpentis,Fountain
+Null-Sec Node,B-DBYQ,,,,-0.0,Gallente,Serpentis,Cloud Ring
+Null-Sec Node,DY-F70,,,,-0.0,Gallente,Serpentis,Cloud Ring
+Null-Sec Node,FD53-H,,,,-0.0,Gallente,Serpentis,Cloud Ring
+Null-Sec Node,0-ZXUV,,,,-0.0,Gallente,Serpentis,Cloud Ring
+Null-Sec Node,F7C-H0,,,,-0.0,Gallente,Serpentis,Cloud Ring
+Lo-Sec Node,Alsovoinon,,,,0.3,Gallente,Serpentis,Placid
+Lo-Sec Node,Jan,,,,0.4,Caldari,Guristas,Lonetrek
+Med-Sec Node,Autaris,,,,0.5,Caldari,Guristas,Lonetrek
+Hi-Sec Node,Vellaine,,,,0.6,Caldari,Guristas,Lonetrek
+Null-Sec Node,9-266Q,,,,-0.3,Caldari,Guristas,Venal
+Null-Sec Node,MKD-O8,,,,-0.4,Caldari,Guristas,Venal
+Null-Sec Node,3A1P-N,,,,-0.9,Caldari,Guristas,Venal
+Null-Sec Node,Q-CAB2,,,,-0.8,Caldari,Guristas,Tribute
+Null-Sec Node,WH-JCA,,,,-0.7,Caldari,Guristas,Tribute
+Null-Sec Node,D7-ZAC,,,,-0.5,Caldari,Guristas,Tribute
+Null-Sec Node,H-W9TY,,,,-0.5,Caldari,Guristas,Tribute
+Null-Sec Node,MSHD-4,,,,-0.4,Caldari,Guristas,Tribute
+Null-Sec Node,C2X-M5,,,,-0.4,Caldari,Guristas,Tribute
+Null-Sec Node,15W-GC,,,,-0.3,Caldari,Guristas,Tribute
+Null-Sec Node,E-OGL4,,,,-0.3,Caldari,Guristas,Tribute
+Null-Sec Node,M-OEE8,,,,-0.2,Caldari,Guristas,Tribute
+Lo-Sec Node,Taisy,,,,0.3,Caldari,Guristas,Lonetrek
+Lo-Sec Node,Navula,,,,0.4,Caldari,Guristas,Lonetrek
+Med-Sec Node,Vuorrassi,,,,0.5,Caldari,Guristas,Lonetrek
+Hi-Sec Node,Hageken,,,,0.6,Caldari,Guristas,Lonetrek
+Hi-Sec Node,Uosusuokko,,,,0.7,Caldari,Guristas,Lonetrek
+Hi-Sec Node,Isikemi,,,,0.8,Caldari,Guristas,Lonetrek
+Hi-Sec Node,Funtanainen,,,,0.9,Caldari,Guristas,Lonetrek
+Hi-Sec Node,Sobaseki,,,,0.8,Caldari,Guristas,Lonetrek
+Hi-Sec Node,Veisto,,,,0.8,Caldari,Guristas,Lonetrek
+Lo-Sec Node,Ertoo,,,,0.1,Amarr,Blood,Aridia
+Null-Sec Node,4-JWWQ,,,,-0.0,Gallente,Serpentis,Syndicate
+Null-Sec Node,RSS-KA,,,,-0.0,Gallente,Serpentis,Syndicate
+Null-Sec Node,VSIG-K,,,,-0.0,Gallente,Serpentis,Syndicate
+Null-Sec Node,E9G-MT,,,,-0.0,Gallente,Serpentis,Outer Ring
+Null-Sec Node,U09-YG,,,,-0.0,Gallente,Serpentis,Outer Ring
+Null-Sec Node,RL-KTO,,,,-0.0,Gallente,Serpentis,Outer Ring
+Null-Sec Node,C0T-77,,,,-0.0,Gallente,Serpentis,Outer Ring
+Null-Sec Node,3KNK-A,,,,-0.0,Gallente,Serpentis,Syndicate
+Null-Sec Node,Z3V-1W,,,,-0.0,Amarr,Blood,Delve
+Null-Sec Node,A-ELE2,,,,-0.0,Amarr,Blood,Delve
+Null-Sec Node,6Q-R50,,,,-0.1,Amarr,Blood,Delve
+Null-Sec Node,1-SMEB,,,,-0.1,Amarr,Blood,Delve
+Lo-Sec Node,Tisot,,,,0.1,Amarr,Blood,Aridia
+Lo-Sec Node,Omigiav,,,,0.2,Amarr,Blood,Aridia
+Lo-Sec Node,Khnar,,,,0.1,Amarr,Blood,Aridia
+Lo-Sec Node,Hakatiz,,,,0.1,Amarr,Blood,Aridia
+Lo-Sec Node,Fihrneh,,,,0.1,Amarr,Blood,Aridia
+Lo-Sec Node,Kamih,,,,0.2,Amarr,Blood,Aridia
+Lo-Sec Node,Hier,,,,0.4,Amarr,Blood,Aridia
+Lo-Sec Node,Sadana,,,,0.4,Amarr,Blood,Aridia
+Lo-Sec Node,Onaman,,,,0.4,Amarr,Blood,Aridia
+Lo-Sec Node,Udianoor,,,,0.4,Amarr,Blood,Aridia
+Lo-Sec Node,Vehan,,,,0.4,Amarr,Blood,Aridia
+Med-Sec Node,Misha,,,,0.5,Amarr,Blood,Kor-Azor
+Med-Sec Node,Ordion,,,,0.5,Amarr,Blood,Kor-Azor
+Hi-Sec Node,ZInkon,,,,0.7,Amarr,Blood,Kor-Azor
+Hi-Sec Node,Nare,,,,0.6,Amarr,Blood,Kor-Azor
+Hi-Sec Node,Kizama,,,,0.7,Amarr,Blood,Kor-Azor
+Hi-Sec Node,Shaha,,,,0.6,Amarr,Blood,Kor-Azor
+Hi-Sec Node,Alakgur,,,,0.6,Minmatar,Angel,Heimetar
+Null-Sec Node,S-E6ES,,,,-0.1,Minmatar,Angel,Scalding Pass
+Null-Sec Node,EIN-QG,,,,-0.1,Minmatar,Angel,Scalding Pass
+Null-Sec Node,R-3FBU,,,,-0.0,Minmatar,Angel,Scalding Pass
+Null-Sec Node,8G-MQV,,,,-0.0,Minmatar,Angel,Curse
+Null-Sec Node,ARG-3R,,,,-0.0,Minmatar,Angel,Scalding Pass
+Null-Sec Node,CL-85V,,,,-0.0,Minmatar,Angel,Curse
+Null-Sec Node,K-QWHE,,,,-0.0,Minmatar,Angel,Curse
+Null-Sec Node,RMOC-W,,,,-0.0,Minmatar,Angel,Curse
+Null-Sec Node,Hemin,,,,-0.0,Minmatar,Angel,Curse
+Null-Sec Node,Jorund,,,,-0.0,Minmatar,Angel,Curse
+Null-Sec Node,Doril,,,,-0.0,Minmatar,Angel,Curse
+Lo-Sec Node,Sendaya,,,,0.3,Minmatar,Sansha,Derelik
+Lo-Sec Node,Mifrata,,,,0.3,Minmatar,Sansha,Derelik
+Med-Sec Node,Shedoo,,,,0.5,Minmatar,Sansha,Delerik
+Med-Sec Node,Ihal,,,,0.5,Minmatar,Sansha,Delerik
+Med-Sec Node,Berta,,,,0.5,Minmatar,Sansha,Delerik
+Hi-Sec Node,Juddi,,,,0.6,Minmatar,Sansha,Derelik
+Null-Sec Node,VOL-MI,,,,-0.0,Minmatar,Angel,Curse
+Null-Sec Node,H-ADOC,,,,-0.1,Minmatar,Angel,Curse
+Null-Sec Node,Y-DW5K,,,,-0.1,Minmatar,Angel,Curse
+Null-Sec Node,M-N7WD,,,,-0.1,Minmatar,Angel,Curse
+Null-Sec Node,XX9-WV,,,,-0.1,Minmatar,Angel,Curse
+Null-Sec Node,RA-NXN,,,,-0.0,Minmatar,Angel,Curse
+Null-Sec Node,HWL-HP,,,,-0.0,Minmatar,Angel,Curse
+Null-Sec Node,KLMT-W,,,,-0.0,Minmatar,Angel,Curse
+Null-Sec Node,UT-UZB,,,,-0.0,Minmatar,Angel,Great Wildlands
+Null-Sec Node,VXO-OM,,,,-0.0,Minmatar,Angel,Great Wildlands
+Null-Sec Node,AZF-GH,,,,-0.0,Minmatar,Angel,Great Wildlands
+Null-Sec Node,CRXA-Y,,,,-0.1,Minmatar,Angel,Great Wildlands
+Null-Sec Node,JPL-RA,,,,-0.1,Minmatar,Angel,Great Wildlands
+Null-Sec Node,NK-7XO,,,,-0.0,Minmatar,Angel,Great Wildlands
+Lo-Sec Node,Faurulle,,,,0.1,Gallente,Serpentis,Solitude
+Lo-Sec Node,Otakod,,,,0.3,Amarr,Blood,Genesis
+Lo-Sec Node,Galnafsad,,,,0.2,Amarr,Blood,Genesis
+Lo-Sec Node,Shalne,,,,0.3,Amarr,Blood,Genesis
+Lo-Sec Node,Gonditsa,,,,0.3,Amarr,Blood,Genesis
+Null-Sec Node,D85-VD,,,,-0.0,Gallente,Serpentis,Syndicate
+Null-Sec Node,KFR-ZE,,,,-0.0,Gallente,Serpentis,Syndicate
+Null-Sec Node,Y-W6GF,,,,-0.0,Gallente,Serpentis,Syndicate
+Null-Sec Node,3MOG-V,,,,-0.0,Gallente,Serpentis,Syndicate
+Null-Sec Node,TXW-EI,,,,-0.0,Gallente,Serpentis,Syndicate
+Null-Sec Node,5-FGQI,,,,-0.0,Gallente,Serpentis,Syndicate
+Null-Sec Node,8V-SJJ,,,,-0.1,Gallente,Serpentis,Syndicate
+Null-Sec Node,K5-JRD,,,,-0.1,Gallente,Serpentis,Syndicate
+Lo-Sec Node,Babirmoult,,,,0.2,Gallente,Serpentis,Solitude
+Lo-Sec Node,Hare,,,,0.2,Gallente,Serpentis,Solitude
+Lo-Sec Node,Ogaria,,,,0.2,Gallente,Serpentis,Solitude
+Lo-Sec Node,Agaullores,,,,0.1,Gallente,Serpentis,Solitude
+Lo-Sec Node,Shirshocin,,,,0.3,Amarr,Blood,Aridia
+Lo-Sec Node,Zayi,,,,0.3,Amarr,Blood,Aridia
+Lo-Sec Node,Van,,,,0.3,Amarr,Blood,Aridia
+Med-Sec Node,Bherdasopt,,,,0.5,Amarr,Blood,Genesis
+Med-Sec Node,Pamah,,,,0.5,Amarr,Blood,Genesis
+Med-Sec Node,Malma,,,,0.5,Amarr,Blood,Genesis
+Med-Sec Node,Pashanai,,,,0.5,Amarr,Blood,Genesis
+Med-Sec Node,Manatirid,,,,0.5,Amarr,Blood,Genesis
+Hi-Sec Node,Diaderi,,,,0.8,Amarr,Blood,Genesis
+Null-Sec Node,8YC-AN,,,,-0.1,Minmatar,Angel,Great Wildlands
+Null-Sec Node,7Q-8Z2,,,,-0.3,Minmatar,Angel,Great Wildlands
+Lo-Sec Node,Yishinoon,,,,0.4,Minmatar,Angel,Heimatar
+Lo-Sec Node,Uplinger,,,,0.4,Minmatar,Angel,Heimatar
+Lo-Sec Node,Khabi,,,,0.2,Minmatar,Sansha,Derelik
+Lo-Sec Node,Ubtes,,,,0.3,Minmatar,Sansha,Derelik
+Hi-Sec Node,Trytedald,,,,0.9,Minmitar,Angel,Heimatar
+Hi-Sec Node,Nimambal,,,,0.6,Minmatar,Sansha,Derelik
+Hi-Sec Node,Mohas,,,,0.7,Minmatar,Sansha,Derelik
+Hi-Sec Node,Radima,,,,0.8,Minmatar,Sansha,Derelik
+Hi-Sec Node,Hasiari,,,,0.8,Minmatar,Sansha,Derelik
+Hi-Sec Node,Dantan,,,,0.7,Amarr,Blood,Kador
+Hi-Sec Node,Danyana,,,,0.8,Amarr,Blood,Kor-Azor
+Hi-Sec Node,Sehmy,,,,1.0,Amarr,Blood,Kor-Azor
+Hi-Sec Node,Kor-Azor Prime,,,,0.9,Amarr,Blood,Kor-Azor
+Hi-Sec Node,Akpivem,,,,0.8,Minmatar,Sansha,Derelik
+Hi-Sec Node,Sasta,,,,0.8,Minmatar,Sansha,Derelik
+Hi-Sec Node,Tanoo,,,,0.9,Minmatar,Sansha,Derelik
+Hi-Sec Node,Jark,,,,0.8,Minmatar,Sansha,Derelik
+Hi-Sec Node,Odatrik,,,,0.8,Minmatar,Angel,Heimatar
+Hi-Sec Node,Abudan,,,,0.7,Minmatar,Angel,Heimatar
+Hi-Sec Node,Avesber,,,,0.8,Minmatar,Angel,Heimatar
+Hi-Sec Node,Gyng,,,,0.8,Minmatar,Angel,Heimatar
+Hi-Sec Node,Onga,,,,1.0,Minmatar,Angel,Heimatar
+Med-Sec Node,Osoggur,,,,0.5,Minmatar,Angel,Heimatar
+Lo-Sec Node,Anamake,,,,0.4,Minmatar,Angel,Heimatar
+Lo-Sec Node,Vecamia,,,,0.5,Amarr,Blood,Genesis
+Med-Sec Node,Lor,,,,0.5,Amarr,Blood,Genesis
+Med-Sec Node,Cleyd,,,,0.5,Amarr,Blood,Genesis
+Med-Sec Node,Tarta,,,,0.5,Amarr,Blood,Genesis
+Hi-Sec Node,Aphend,,,,0.6,Amarr,Blood,Genesis
+Hi-Sec Node,Dresi,,,,0.6,Amarr,Blood,Genesis
+Hi-Sec Node,Gensela,,,,0.7,Amarr,Blood,Genesis
+Hi-Sec Node,Shera,,,,0.6,Amarr,Blood,Genesis
+Hi-Sec Node,Tekaima,,,,0.6,Amarr,Blood,Genesis
+Hi-Sec Node,Tar,,,,0.8,Amarr,Blood,Genesis
+Hi-Sec Node,Bhizheba,,,,1.0,Amarr,Sansha,Domain
+Hi-Sec Node,Romi,,,,0.7,Amarr,Sansha,Domain
+Med-Sec Node,Asanot,,,,0.5,Amarr,Blood,Genesis
+Med-Sec Node,Anzalaisio,,,,0.5,Amarr,Blood,Genesis
+Med-Sec Node,Heorah,,,,0.5,Amarr,Blood,Genesis
+Med-Sec Node,Imya,,,,0.5,Amarr,Blood,Genesis
+Med-Sec Node,Nasreri,,,,0.5,Amarr,Blood,Genesis
+Hi-Sec Node,Anyed,,,,0.6,Gallente,Serpentis,Genesis
+Hi-Sec Node,Gergish,,,,0.6,Amarr,Blood,Genesis
+Hi-Sec Node,Madomi,,,,0.6,Amarr,Blood,Genesis
+Hi-Sec Node,Doza,,,,0.6,Amarr,Blood,Genesis
+Hi-Sec Node,Girani-Fa,,,,0.6,Amarr,Blood,Genesis
+Hi-Sec Node,Aydoteaux,,,,0.7,Amarr,Blood,Everyshore
+Hi-Sec Node,Tolle,,,,0.7,Gallente,Serpentis,Everyshore
+Hi-Sec Node,Manarq,,,,0.8,Amarr,Blood,Genesis
+Lo-Sec Node,Oddelulf,,,,0.4,Minmitar,Angel,Molden Heath
+Hi-Sec Node,Gelfiven,,,,0.6,Minmatar,Angel,Molden Heath
+Hi-Sec Node,Teonusude,,,,0.6,Minmatar,Angel,Molden Heath
+Hi-Sec Node,Magiko,,,,0.9,Minmatar,Angel,Heimatar
+Hi-Sec Node,Vullat,,,,1.0,Minmatar,Angel,Heimatar
+Null-Sec Node,A-SJ8X,,,,-0.1,Gallente,Serpentis,Syndicate
+Null-Sec Node,2P-4LS,,,,-0.1,Gallente,Serpentis,Syndicate
+Null-Sec Node,OLTQ-C,,,,-0.2,Gallente,Serpentis,Syndicate
+Null-Sec Node,31-MLU,,,,-0.2,Gallente,Serpentis,Syndicate
+Hi-Sec Node,Irnin,,,,0.7,Amarr,Sansha,Domain
+Hi-Sec Node,Martha,,,,0.7,Amarr,Sansha,Domain
+Hi-Sec Node,Kooreng,,,,0.7,Amarr,Blood,Kador
+Hi-Sec Node,Ahtila,,,,0.6,Caldari,Guristas,Black Rise
+Hi-Sec Node,Ichoriya,,,,0.6,Caldari,Guristas,Black Rise
+Lo-Sec Node,Akidagi,,,,0.4,Caldari,Guristas,Black Rise
+Lo-Sec Node,Nennamaila,,,,0.3,Caldari,Guristas,Black Rise
+Lo-Sec Node,Hikkoken,,,,0.3,Caldari,Guristas,Black Rise
+Lo-Sec Node,Pynekastoh,,,,0.2,Caldari,Guristas,Black Rise
+Lo-Sec Node,Oinasiken,,,,0.2,Caldari,Guristas,Black Rise
+Lo-Sec Node,Abune,,,,0.3,Gallente,Serpentis,Essence
+Lo-Sec Node,Heydieles,,,,0.3,Gallente,Serpentis,Essence
+Lo-Sec Node,Old Man Star,,,,0.3,Gallente,Serpentis,Essence
+Med-Sec Node,Palpis,,,,0.5,Amarr,Sansha,Devoid
+Med-Sec Node,Uuhulanen,,,,0.5,Caldari,Guristas,Black Rise
+Med-Sec Node,Litiura,,,,0.5,Caldari,Guristas,Lonetrek
+Hi-Sec Node,Mili,,,,0.6,Amarr,Sansha,Devoid
+Hi-Sec Node,Faktun,,,,0.6,Amarr,Sansha,Devoid
+Hi-Sec Node,Ulerah,,,,0.7,Amarr,Sansha,Devoid
+Hi-Sec Node,Nidebora,,,,0.8,Amarr,Sansha,Devoid
+Hi-Sec Node,Piak,,,,0.7,Caldari,Guristas,Lonetrek
+Hi-Sec Node,Elonaya,,,,0.7,Caldari,Guristas,Lonetrek
+Hi-Sec Node,Uemisanisen,,,,0.6,Caldari,Guristas,Lonetrek
+Lo-Sec Node,Tararan,,,,0.3,Amarr,Sansha,Devoid
+Lo-Sec Node,Arzad,,,,0.2,Amarr,Sansha,Devoid
+Lo-Sec Node,Ezzara,,,,0.2,Amarr,Sansha,Derelik
+Lo-Sec Node,Vard,,,,0.4,Minmatar,Angel,Heimatar
+Hi-Sec Node,Nordar,,,,0.6,Amarr,Blood,Kador
+Hi-Sec Node,Murini,,,,0.6,Amarr,Blood,Kador
+Hi-Sec Node,Shaggoth,,,,0.7,Amarr,Blood,Kador
+Hi-Sec Node,Algasienan,,,,0.7,Gallente,Serpentis,Placid
+Hi-Sec Node,Archavoinet,,,,0.6,Gallente,Serpentis,Placid
+Lo-Sec Node,Halmah,,,,0.4,Amarr,Sansha,Devoid
+Lo-Sec Node,Aubenall,,,,0.4,Gallente,Serpentis,Placid
+Lo-Sec Node,Oulley,,,,0.3,Gallente,Serpentis,Placid
+Med-Sec Node,Saatuban ,,,,0.5,Caldari,Guristas,Lonetrek
+Hi-Sec Node,Heidon,,,,1.0,Amarr,Sansha,Domain
+Hi-Sec Node,Boranai,,,,0.9,Amarr,Sansha,Domain
+Hi-Sec Node,Ikuchi,,,,1.0,Caldari,Guristas,Lonetrek
+Hi-Sec Node,Tunttara,,,,0.9,Caldari,Guristas,Lonetrek
+Lo-Sec Node,Tama,,,,0.3,Caldari,Guristas,The Citadel
+Lo-Sec Node,Sujarento,,,,0.3,Caldari,Guristas,The Citadel
+Lo-Sec Node,Onatoh,,,,0.3,Caldari,Guristas,The Citadel
+Lo-Sec Node,Tannolen,,,,0.3,Caldari,Guristas,The Citadel
+Hi-Sec Node,Nourvukaiken,,,,0.8,Caldari,Guristas,Lonetrek
+Hi-Sec Node,Tierijev,,,,0.8,Gallente,Serpentis,Verge Vendor
+Hi-Sec Node,Chantrousse,,,,0.6,Gallente,Serpentis,Verge Vendor
+Lo-Sec Node,Kourmonen,,,,0.4,Amarr,Blood,The Bleak Lands
+Lo-Sec Node,Auga,,,,0.4,Minmatar,Angel,Heimatar
+Lo-Sec Node,Siseide,,,,0.3,Minmatar,Angel,Heimatar
+Lo-Sec Node,Egghelende,,,,0.4,Gallente,Serpentis,Sinq Laison
+Med-Sec Node,Niajara,,,,0.5,Amarr,Sansha,Domain
+Med-Sec Node,Tuomuta,,,,0.5,Amarr,Blood,The Bleak Lands
+Med-Sec Node,Uedama,,,,0.5,Caldari,Guristas,The Citadel
+Hi-Sec Node,Halaima,,,,0.7,Caldari,Guristas,The Citadel
+Hi-Sec Node,Jel,,,,0.6,Gallente,Serpentis,Sinq Laison
+Hi-Sec Node,Ardallabier,,,,0.7,Gallente,Serpentis,Everyshore
+Hi-Sec Node,Lirsautton,,,,0.8,Gallente,Serpentis,Everyshore
+Hi-Sec Node,Blameston,,,,1.0,Gallente,Serpentis,Everyshore
+Hi-Sec Node,Mies,,,,0.6,Amarr,Blood,The Bleak Lands
+Hi-Sec Node,Otelen,,,,0.8,Amarr,Blood,The Bleak Lands
+Hi-Sec Node,Mahrokht,,,,0.9,Amarr,Sansha,Domain
+Hi-Sec Node,Alkabsi,,,,0.7,Amarr,Sansha,Domain
+Hi-Sec Node,Sarum Prime,,,,1.0,Amarr,Sansha,Domain
+Hi-Sec Node,Ashab,,,,0.6,Amarr,Sansha,Domain
+Hi-Sec Node,Madirmillire,,,,0.6,Amarr,Sansha,Domain
+Hi-Sec Node,Kaaputenen,,,,0.8,Caldari,Guristas,The Citadel
+Hi-Sec Node,Kamio,,,,0.7,Caldari,Guristas,The Citadel
+Hi-Sec Node,Ikao,,,,0.6,Caldari,Guristas,The Citadel
+Hi-Sec Node,Iidoken,,,,0.8,Caldari,Guristas,Lonetrek
+Hi-Sec Node,Isanamo,,,,0.6,Caldari,Guristas,Lonetrek
+Hi-Sec Node,Perimeter,,,,1.0,Caldari,Guristas,The Forge
+Hi-Sec Node,Sarekuwa,,,,0.9,Caldari,Guristas,Lonetrek
+Hi-Sec Node,Sirppala,,,,0.9,Caldari,Guristas,The Citadel
+Hi-Sec Node,Urlen,,,,1.0,Caldari,Guristas,The Forge
+Hi-Sec Node,Anttiri,,,,0.7,Caldari,Guristas,The Citadel
+Hi-Sec Node,Juunigaishi,,,,0.6,Caldari,Guristas,The Citadel
+Hi-Sec Node,Sivala,,,,0.6,Caldari,Guristas,The Citadel
+Hi-Sec Node,Hatakani,,,,0.9,Caldari,Guristas,The Citadel
+Hi-Sec Node,Kassigainen,,,,0.9,Caldari,Guristas,The Citadel
+Hi-Sec Node,Algogille,,,,0.9,Gallente,Serpentis,Essence
+Null-Sec Node,X-M2LR,,,,-0.1,Gallente,Serpentis,Syndicate
+Null-Sec Node,FD-MLJ,,,,-0.0,Gallente,Serpentis,Syndicate
+Null-Sec Node,PF-346,,,,-0.4,Gallente,Serpentis,Syndicate
+Med-Sec Node,Pemene,,,,0.5,Gallente,Serpentis,Essence
+Med-Sec Node,Mesybier,,,,0.5,Gallente,Serpentis,Essence
+Med-Sec Node,Villore,,,,0.5,Gallente,Serpentis,Essence
+Hi-Sec Node,Orvolle,,,,0.7,Gallente,Serpentis,Placid
+Hi-Sec Node,Aidart,,,,0.6,Gallente,Serpentis,Verge Vendor
+Hi-Sec Node,Stacmon,,,,0.6,Gallente,Serpentis,Placid
+Hi-Sec Node,Cistuvaert,,,,1.0,Gallente,Serpentis,Verge Vendor
+Med-Sec Node,Hek,,,,0.5,Minmitar,Angel,Metropolis
+Med-Sec Node,Uttindar,,,,0.5,Gallente,Angel,Metropolis
+Med-Sec Node,Colelie,,,,0.5,Gallente,Serpentis,Sinq Laison
+Med-Sec Node,Deltole,,,,0.5,Gallente,Serpentis,Sinq Laison
+Med-Sec Node,Balle,,,,0.5,Gallente,Serpentis,Sinq Laison
+Hi-Sec Node,Ourapheh,,,,0.9,Amarr,Blood,Genesis
+ITC,Jita,,,,0.9,Caldari,Guristas,The Forge
+ITC,Auvergne,,,,0.9,Gallente,Serpentis,Sinq Laison
+Hi-Sec Node,Erme,,,,0.9,Gallente,Serpentis,Sinq Laison
+Hi-Sec Node,Du Annes,,,,0.6,Gallente,Serpentis,Sinq Laison
+Hi-Sec Node,Botane,,,,0.9,Gallente,Serpentis,Sinq Laison
+ITC,Kamela,,,,0.4,Gallente,Sansha,Bleak Lands
+ITC,Ostingele,,,,0.2,Gallente,Serpentis,Placid
+ITC,Onnamon,,,,0.6,Caldari,Guristas,Black Rise
+ITC,BMNV-P,,,,-0.2,Gallente,Serpentis,Syndicate
+ITC,Bereye,,,,0.7,Gallente,Serpentis,Everyshore
+ITC,Renyn,,,,0.9,Gallente,Serpentis,Essence
+ITC,Istodard,,,,0.3,Minmatar,Angel,Molden Heath
+ITC,Nakugard,,,,0.5,Minmatar,Angel,Metropolis
+ITC,Asghed,,,,0.4,Amarr,Sansha,Devoid
+ITC,Amarr,,,,1.0,Amarr,Sansha,Domain
+ITC,Kador Prime,,,,0.6,Amarr,Blood,Kador
+ITC,Alentene,,,,0.9,Gallente,Serpentis,Verge Vendor
+ITC,Pator,,,,1.0,Minmatar,Angel,Heimatar
+ITC,Piekura,,,,0.5,Caldari,Guristas,Lonetrek
+ITC,Alikara,,,,0.7,Caldari,Guristas,The Citadel
+ITC,Tash-Murkon Prime,,,,0.8,Amarr,Sansha,Tash-Murkon
+ITC,Nibainkier,,,,0.7,Amarr,Blood,Kor-Azor
+ITC,Itrin,,,,0.4,Amarr,Blood,Genesis
+ITC,Maspah,,,,0.8,Minmatar,Sansha,Delerik
+ITC,Heluene,,,,0.2,Gallente,Serpentis,Solitude
+ITC,E02-IK,,,,-0.1,Minmatar,Angel,Great Wildlands
+ITC,H-PA29,,,,-0.2,Caldari,Guristas,Venal
+ITC,G-G78S,,,,-0.2,Minmatar,Angel,Curse
+ITC,9RQ-L8,,,,-0.1,Amarr,Sansha,Stain
+ITC,Serpentis Prime,,,,-0.1,Gallente,Serpentis,Fountain
+ITC,UHKL-N,,,,-0.0,Amarr,Blood,Delve
+ITC,4C-B7X,,,,-0.0,Gallente,Serpentis,Outer Ring
+Hi-Sec Node,Oursulaert,,,,0.9,Gallente,Serpentis,Genesis
+Hi-Sec Node,Miles,,,,0.9,Gallente,Serpentis,Essence
+Hi-Sec Node,Yulai,,,,1.0,Amarr,Blood,Genesis
+Hi-Sec Node,Tourier,,,,0.9,Gallente,Serpentis,Verge Vendor
+Hi-Sec Node,Alenia,,,,0.9,Gallente,Serpentis,Verge Vendor
+Hi-Sec Node,Vylade,,,,0.8,Gallente,Serpentis,Sinq Laison
+Hi-Sec Node,Aufay,,,,0.7,Gallente,Serpentis,Sinq Laison
+Hi-Sec Node,Bei,,,,0.6,Minmatar,Angel,Metropolis
+Hi-Sec Node,Eystur,,,,0.9,Minmatar,Angel,Heimatar
